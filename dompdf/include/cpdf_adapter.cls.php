@@ -136,6 +136,7 @@ class CPDF_Adapter implements Canvas {
     "8.5x11" => array(0,0,612.00,792.00),
     "8.5x14" => array(0,0,612.00,1008.0),
     "11x17"  => array(0,0,792.00, 1224.00),
+    "apollo" => array(0,0,576,576)
   );
 
 
