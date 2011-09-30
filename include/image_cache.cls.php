@@ -106,7 +106,7 @@ class Image_Cache {
         $full_url = build_url($proto, $host, $base_path, $url);
   
         // From cache
-        if ( isset(self::$_cache[$full_url]) ) {
+        if ( false ) {
           $resolved_url = self::$_cache[$full_url];
         }
         
