@@ -1,0 +1,11 @@
+{
+    "name": "practo/dompdf",
+    "type": "library",
+    "description": "Clone of dompdf library maintained to support legacy code",
+    "keywords": ["pdf"],
+    "homepage": "https://github.com/practo/dompdf",
+    "license": "LGPL",
+    "autoload": {
+        "psr-0": { "dompdf": "" }
+    }
+}
